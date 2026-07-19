@@ -1,0 +1,22 @@
+{
+  "name": "Приложение для прелестниц",
+  "short_name": "Прелестницы",
+  "start_url": "/prelestnicy-demo/",
+  "scope": "/prelestnicy-demo/",
+  "display": "standalone",
+  "background_color": "#17140F",
+  "theme_color": "#17140F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
