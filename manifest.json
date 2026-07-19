@@ -4,8 +4,8 @@
   "start_url": "/prelestnicy-demo/",
   "scope": "/prelestnicy-demo/",
   "display": "standalone",
-  "background_color": "#17140F",
-  "theme_color": "#17140F",
+  "background_color": "#F2EBE0",
+  "theme_color": "#F2EBE0",
   "orientation": "portrait",
   "icons": [
     {
